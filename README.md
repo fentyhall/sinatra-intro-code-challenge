@@ -1,8 +1,12 @@
 # Sinatra Introduction
 
 ## Part 1: Conceptual questions
-1. What's a web framework?
+1. What's a web framework? 
+Collection of codes, models, macros, variables
+
 2. What's MVC? Describe the division of responsibility of each component.
+
+
 3. What are the two main type of HTTP requests we can send?
 
 ## Part 2: Coding Challenge - Building a Sinatra Application
